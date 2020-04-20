@@ -210,6 +210,10 @@ header #toggle:after {
     #navigation {
         width: 230px;
     }
+    
+    #navigation ul {
+        margin-left: 40px;
+    }
 
     #navigation ul li a {
         font-size: 1.5em;
